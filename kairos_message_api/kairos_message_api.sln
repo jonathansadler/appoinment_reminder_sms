@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kairos_message_api", "kairos_message_api\kairos_message_api.csproj", "{A26F8C17-1B96-4819-AF63-960C0D8CCAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26F8C17-1B96-4819-AF63-960C0D8CCAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26F8C17-1B96-4819-AF63-960C0D8CCAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26F8C17-1B96-4819-AF63-960C0D8CCAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26F8C17-1B96-4819-AF63-960C0D8CCAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9312CD59-A320-4CB4-B802-2345E51A27F1}
+	EndGlobalSection
+EndGlobal
